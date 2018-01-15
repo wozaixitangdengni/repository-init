@@ -13,6 +13,10 @@ function test(){
 
 }
 
+function test01 (){
+    console.log("sdfas2f12sd1212");
+}
+
 function setName(){
     console.log("setName");
     console.log("dev分支中的setName");
@@ -21,7 +25,10 @@ function setName(){
     console.log('0sdfsdffffffff2423');
 }
 
+<<<<<<< HEAD
 function test01 (){
     console.log("sdfas2f12sd1212");
 }
+=======
+>>>>>>> dev
 
