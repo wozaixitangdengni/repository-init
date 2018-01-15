@@ -1,9 +1,16 @@
+
 function master (){
     console.log(11);
 }
 
-function getName(){
+function getName() {
     console.log("getName");
+}
+
+function test(){
+    console.log('asdfa0sdf0');
+    console.log('0fgd0fg0d0f');
+
 }
 
 function setName(){
@@ -12,11 +19,6 @@ function setName(){
     console.log('0sdfsdffffffffffffffffffffff');
     console.log('0sdfsdffffffffffffffffffffff');
     console.log('0sdfsdffffffff2423');
-}
-
-function test(){
-    console.log('asdfa0sdf0');
-    console.log('0fgd0fg0d0f');
 }
 
 function test01 (){
