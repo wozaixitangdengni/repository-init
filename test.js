@@ -23,6 +23,8 @@ function setName(){
     console.log('0sdfsdffffffffffffffffffffff');
     console.log('0sdfsdffffffffffffffffffffff');
     console.log('0sdfsdffffffff2423');
+    console.log('0sdfsdffffffff2423');
+    console.log('0sdfsdffffffff2423');
 }
 
 
